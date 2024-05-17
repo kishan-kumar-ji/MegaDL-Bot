@@ -28,7 +28,7 @@ logging.basicConfig(level=logging.INFO,
 
 # Mega Client
 mega = Mega()
-m = mega.login()
+m = mega.login('nexxi5561@gmail.com','cbHQ1TMyVEI4eui')
 
 # Temp Download Directory
 basedir = Config.DOWNLOAD_LOCATION
