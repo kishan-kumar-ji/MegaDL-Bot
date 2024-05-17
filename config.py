@@ -17,19 +17,9 @@ class Config:
 
 class TEXT:
   ABOUT = """
-🤖 **Name:** {bot_name}
+🤖 **Name:** 
 
-📝 **Language:** [Python](https://www.python.org)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
-
-📡 **Hosted On:** [Heroku](https://heroku.com)
-
-🧑‍💻 **Developer:** [RAJESH SAINI](https://t.me/rajeshsaini2115)
-
-👥 **Support Group:** [MRKP HELP](https://t.me/mrkphelp)
-
-📢 **Updates Channel:** [MRKP ＢＯＴＳ](https://t.me/mrkpbots)
 """
 
   HELP_USER = """
